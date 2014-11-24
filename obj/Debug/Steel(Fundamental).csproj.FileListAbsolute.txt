@@ -1,0 +1,5 @@
+C:\Users\GadjievAlex\Desktop\Steel\Fundamental(сновной)\Steel(Fundamental)\obj\Debug\Steel(Fundamental).csprojResolveAssemblyReference.cache
+C:\Users\GadjievAlex\Desktop\Steel\Fundamental(сновной)\Steel(Fundamental)\bin\Debug\Steel(Fundamental).exe
+C:\Users\GadjievAlex\Desktop\Steel\Fundamental(сновной)\Steel(Fundamental)\bin\Debug\Steel(Fundamental).pdb
+C:\Users\GadjievAlex\Desktop\Steel\Fundamental(сновной)\Steel(Fundamental)\obj\Debug\Steel(Fundamental).exe
+C:\Users\GadjievAlex\Desktop\Steel\Fundamental(сновной)\Steel(Fundamental)\obj\Debug\Steel(Fundamental).pdb
